@@ -1,0 +1,8 @@
+{
+    "model" : "default",
+    "indexes" : {
+        "name" : "unique",
+        "tags" : "group",
+        "user" : "collection:users"
+    }
+}
